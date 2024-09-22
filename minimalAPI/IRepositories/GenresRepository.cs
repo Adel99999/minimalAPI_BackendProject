@@ -28,5 +28,19 @@ namespace minimalAPI.IRepositories
         {
             return await _db.Genres.FirstOrDefaultAsync(g => g.Id == id);
         }
+        public async Task Delete(int id)
+        {
+            await _db.Genres.Where(g => g.Id == id).ExecuteDeleteAsync();
+        }
+
+        public async Task<bool> Exists(int id)
+        {
+            return await _db.Genres.AnyAsync(g => g.Id == id);
+        }
+        public async Task Update(Genre genre)
+        {
+            _db.Update(genre);
+            await _db.SaveChangesAsync();
+        }
     }
 }
