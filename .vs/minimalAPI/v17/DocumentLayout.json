@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\adelp\\Desktop\\minimalAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{858CB665-65DA-409A-BE2F-20558B776C45}|minimalAPI\\minimalAPI.csproj|c:\\users\\adelp\\desktop\\minimalapi\\minimalapi\\irepositories\\genresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CB665-65DA-409A-BE2F-20558B776C45}|minimalAPI\\minimalAPI.csproj|solutionrelative:minimalapi\\irepositories\\genresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CB665-65DA-409A-BE2F-20558B776C45}|minimalAPI\\minimalAPI.csproj|c:\\users\\adelp\\desktop\\minimalapi\\minimalapi\\migrations\\20240922172021_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CB665-65DA-409A-BE2F-20558B776C45}|minimalAPI\\minimalAPI.csproj|solutionrelative:minimalapi\\migrations\\20240922172021_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CB665-65DA-409A-BE2F-20558B776C45}|minimalAPI\\minimalAPI.csproj|c:\\users\\adelp\\desktop\\minimalapi\\minimalapi\\endpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CB665-65DA-409A-BE2F-20558B776C45}|minimalAPI\\minimalAPI.csproj|solutionrelative:minimalapi\\endpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,11 +30,50 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adelp\\Desktop\\minimalAPI\\minimalAPI\\IRepositories\\GenresRepository.cs",
+              "RelativeDocumentMoniker": "minimalAPI\\IRepositories\\GenresRepository.cs",
+              "ToolTip": "C:\\Users\\adelp\\Desktop\\minimalAPI\\minimalAPI\\IRepositories\\GenresRepository.cs",
+              "RelativeToolTip": "minimalAPI\\IRepositories\\GenresRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:31:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240922172021_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adelp\\Desktop\\minimalAPI\\minimalAPI\\Migrations\\20240922172021_initial.cs",
+              "RelativeDocumentMoniker": "minimalAPI\\Migrations\\20240922172021_initial.cs",
+              "ToolTip": "C:\\Users\\adelp\\Desktop\\minimalAPI\\minimalAPI\\Migrations\\20240922172021_initial.cs",
+              "RelativeToolTip": "minimalAPI\\Migrations\\20240922172021_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:31:42.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenresEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\adelp\\Desktop\\minimalAPI\\minimalAPI\\EndPoints\\GenresEndpoints.cs",
+              "RelativeDocumentMoniker": "minimalAPI\\EndPoints\\GenresEndpoints.cs",
+              "ToolTip": "C:\\Users\\adelp\\Desktop\\minimalAPI\\minimalAPI\\EndPoints\\GenresEndpoints.cs",
+              "RelativeToolTip": "minimalAPI\\EndPoints\\GenresEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:31:34.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.OutputCaching;
 using minimalAPI.IRepositories;
 using minimalAPI.Models;
 using minimalAPI.DTOs;
-using minimalAPI.Models;
+
 
 namespace MinimalAPIsMovies.Endpoints
 {
